@@ -10,7 +10,7 @@ function App() {
         to="/posts"
       />
       <Route 
-        path="/posts"
+        path="/posts/:postId?"
         component={PostList}
       >
       </Route>
