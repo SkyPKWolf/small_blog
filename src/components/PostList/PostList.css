@@ -1,0 +1,25 @@
+.PostList {
+  display: flex;
+}
+
+.PostList__list {
+  list-style: none;
+  min-width: 50%;
+  width: 50%;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.PostList__item {
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #fafafd;
+  line-height: 1.5;
+}
+
+.PostList__btn {
+  text-decoration: none;
+}
