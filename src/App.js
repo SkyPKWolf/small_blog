@@ -1,19 +1,25 @@
-import { Route, Redirect} from 'react-router-dom';
+import { Route, Redirect, Switch} from 'react-router-dom';
+
 import { PostList } from './components/PostList';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Redirect
-        path="/"
-        to="/posts"
-      />
-      <Route 
-        path="/posts/:postId?"
-        component={PostList}
-      >
-      </Route>
+      <Switch>
+        <Redirect
+          path="/"
+          exact
+          to="/posts"
+        />
+        <Route 
+          path="/posts/:postId?"
+          component={PostList}
+        >
+        </Route>
+      </Switch>
+
     </div>
   );
 }
