@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/small_blog/static/css/main.99ea922d.chunk.css",
-    "main.js": "/small_blog/static/js/main.9619ee3f.chunk.js",
-    "main.js.map": "/small_blog/static/js/main.9619ee3f.chunk.js.map",
+    "main.js": "/small_blog/static/js/main.ca746b41.chunk.js",
+    "main.js.map": "/small_blog/static/js/main.ca746b41.chunk.js.map",
     "runtime-main.js": "/small_blog/static/js/runtime-main.9fd11c8f.js",
     "runtime-main.js.map": "/small_blog/static/js/runtime-main.9fd11c8f.js.map",
-    "static/js/2.03319051.chunk.js": "/small_blog/static/js/2.03319051.chunk.js",
-    "static/js/2.03319051.chunk.js.map": "/small_blog/static/js/2.03319051.chunk.js.map",
+    "static/js/2.4aff64ec.chunk.js": "/small_blog/static/js/2.4aff64ec.chunk.js",
+    "static/js/2.4aff64ec.chunk.js.map": "/small_blog/static/js/2.4aff64ec.chunk.js.map",
     "index.html": "/small_blog/index.html",
     "static/css/main.99ea922d.chunk.css.map": "/small_blog/static/css/main.99ea922d.chunk.css.map",
-    "static/js/2.03319051.chunk.js.LICENSE.txt": "/small_blog/static/js/2.03319051.chunk.js.LICENSE.txt"
+    "static/js/2.4aff64ec.chunk.js.LICENSE.txt": "/small_blog/static/js/2.4aff64ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9fd11c8f.js",
-    "static/js/2.03319051.chunk.js",
+    "static/js/2.4aff64ec.chunk.js",
     "static/css/main.99ea922d.chunk.css",
-    "static/js/main.9619ee3f.chunk.js"
+    "static/js/main.ca746b41.chunk.js"
   ]
 }
