@@ -60,13 +60,13 @@ export function AddPost({ addPost }) {
       {error && <p
         className="Form__errorMassage" 
       >
-        Input more 3 characters
+        Enter more than 3 characters
       </p>}
       <button
         type="submit"
         className="btn"
       >
-        Add a comment
+        Add post
       </button>
     </form>
   );

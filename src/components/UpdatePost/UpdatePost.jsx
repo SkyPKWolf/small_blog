@@ -72,7 +72,7 @@ export function UpdatePost({ updatePost, selectedPostId }) {
         type="submit"
         className="btn"
       >
-        Update a comment
+        Update Post
       </button>
     </form>
   );

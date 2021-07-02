@@ -92,12 +92,6 @@ export function PostList({ match }) {
             </Link>
             <Link
               className="PostList__btn btn"
-              to={`/posts/addPost`}
-            >
-              Creat post
-            </Link>
-            <Link
-              className="PostList__btn btn"
               to={`/posts/${post.id}/updatePost`}
             >
               Update Post
